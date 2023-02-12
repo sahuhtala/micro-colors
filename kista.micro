@@ -1,0 +1,36 @@
+color-link default "#dddddd,#161616"
+color-link comment "#7C7C7C,#161616"
+color-link identifier "#f6e58d,#161616"
+
+color-link constant "#badc58,#161616"
+color-link constant.string "#95afc0,#161616"
+
+color-link statement "#22a6b3,#161616"
+color-link symbol "#7ed6df,#161616"
+
+color-link preproc "#eb4d4b,#161616"
+color-link type "#7579eb,#161616"             
+color-link special "#f0932b,#161616"
+
+color-link underlined "#D33682,#161616"
+color-link error "bold #FF4444,#161616"
+color-link todo "bold #FF8844,#161616"
+color-link hlsearch "#000000,#B4EC85"
+color-link statusline "#161616,#a0a0a0"
+color-link tabbar "#161616,#C5C8C6"
+color-link indent-char "#505050,#161616"
+color-link line-number "#404040,#000000"
+color-link current-line-number "#656866,#161616"
+color-link diff-added "#00AF00"
+color-link diff-modified "#FFAF00"
+color-link diff-deleted "#D70000"
+color-link gutter-error "#FF4444,#161616"
+color-link gutter-warning "#EEEE77,#161616"
+
+color-link cursor-line "#202020"
+
+color-link color-column "#2D2F31"
+#color-link symbol.brackets "#96CBFE,#161616"
+#No extended types (bool in C, etc.)
+#color-link type.extended "default"
+#Plain brackets
