@@ -3,7 +3,8 @@ Original color schemes for Micro editor
 
 ## Kista
 
-![This is an image](/img/kista1.png)
+kista-tc
+![This is an image](/images/kista1.png)
 
 ## Solna
 
