@@ -5,11 +5,11 @@ color-link identifier "#f6e58d,#161616"
 color-link constant "#badc58,#161616"
 color-link constant.string "#95afc0,#161616"
 
-color-link statement "#22a6b3,#161616"
+color-link statement "#009faf,#161616"
 color-link symbol "#7ed6df,#161616"
 
-color-link preproc "#eb4d4b,#161616"
-color-link type "#7579eb,#161616"             
+color-link preproc "#ec3d3b,#161616"
+color-link type "#d96aa4,#161616"             
 color-link special "#f0932b,#161616"
 
 color-link underlined "#D33682,#161616"
